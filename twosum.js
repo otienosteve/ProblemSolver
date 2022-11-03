@@ -7,6 +7,5 @@ return [arr[f],arr[obj[sum-arr[f]]]]
 obj[arr[f]]=f
 }
 return []
-
 }
-console.log(twoSum([3,5,-4,8,11,1,-1,6],10))
+console.log(twoSum([3,5,-4,12,11,1,-1,6],18))
